@@ -1,8 +1,18 @@
-# React + Vite
+# Portfolio
+My personal portfolio wesbite created using ReactJs and styled using TailwindCSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Initialization
+The project is initialized using the frontend tool [Vite](https://vitejs.dev/).
 
-Currently, two official plugins are available:
+## 2. Tools and packages used in this portfolio 
+1. [ReactJs](https://react.dev/)
+2. [EmailJs](https://www.emailjs.com/)
+3. [Tailwind CSS](https://tailwindcss.com/)
+4. [lottie-react](https://www.npmjs.com/package/lottie-react)
+5. [react-simple-typewriter](https://www.npmjs.com/package/react-simple-typewriter)
+6. [react-toastify](https://www.npmjs.com/package/react-toastify)
+7. [react-animate-on-scroll](https://www.npmjs.com/package/react-animate-on-scroll)
+8. [animate.css](https://animate.style/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 3.Deployment
+Checkout the portfolio [here](https://sach-123.github.io/portfolio2/).
